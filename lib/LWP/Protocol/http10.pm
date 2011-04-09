@@ -7,7 +7,9 @@ require HTTP::Status;
 require IO::Socket;
 require IO::Select;
 
-use vars qw(@ISA @EXTRA_SOCK_OPTS);
+use vars qw(@ISA @EXTRA_SOCK_OPTS $VERSION);
+
+$VERSION = "6.02";
 
 require LWP::Protocol;
 @ISA = qw(LWP::Protocol);
