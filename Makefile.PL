@@ -7,7 +7,7 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
     NAME => 'LWP::Protocol::http10',
     VERSION_FROM => 'lib/LWP/Protocol/http10.pm',
-    ABSTRACT => 'Legacy HTTP/1.0 support for LWP',
+    ABSTRACT_FROM => 'lib/LWP/Protocol/http10.pm',
     AUTHOR => 'Gisle Aas <gisle@activestate.com>',
     LICENSE => "perl",
     MIN_PERL_VERSION => 5.008008,
