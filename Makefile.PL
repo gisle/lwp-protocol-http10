@@ -20,7 +20,7 @@ WriteMakefile(
     },
     META_MERGE => {
 	resources => {
-            repository => 'http://github.com/gisle/libwww-perl/tree/LWP-Protocol-http10',
+            repository => 'http://github.com/gisle/lwp-protocol-http10',
 	    MailingList => 'mailto:libwww@perl.org',
         }
     },
