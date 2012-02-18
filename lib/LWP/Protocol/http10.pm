@@ -9,7 +9,7 @@ require IO::Select;
 
 use vars qw(@ISA @EXTRA_SOCK_OPTS $VERSION);
 
-$VERSION = "6.02";
+$VERSION = "6.03";
 
 require LWP::Protocol;
 @ISA = qw(LWP::Protocol);

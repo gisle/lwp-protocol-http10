@@ -1,4 +1,12 @@
 _______________________________________________________________________________
+2012-02-18 LWP-Protocol-http10 6.03
+
+Restore perl-5.8.1 compatiblity.
+
+
+
+
+_______________________________________________________________________________
 2011-04-09 LWP-Protocol-http10 6.02
 
 Initial release of LWP-Protocol-http10 as a separate distribution. There are no code
