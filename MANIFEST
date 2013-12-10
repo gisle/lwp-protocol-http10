@@ -1,5 +1,6 @@
 Changes
 lib/LWP/Protocol/http10.pm
+lib/LWP/Protocol/https10.pm
 Makefile.PL
 MANIFEST			This list of files
 README
